@@ -17,7 +17,7 @@ Buttonfunnel.com is an html template that convert bettter as a simple form.
   <img src="https://www.buttonfunnel.com/images/screenshot.jpg" border="1px">
   
 
-### Get more
+### We offer
 
 We are a Full Service Online Marketing Agency that provides you:
 
@@ -26,12 +26,12 @@ We are a Full Service Online Marketing Agency that provides you:
 * Campaign Services
 * and much more
 
-Contact us now to get more like:
+## Get more
 
 * Get mor Visitors over Google Ads, Facebook Ads or other
 * Conversion optimication for landing pages and shops
 * Automation for Mailings and Bots
-* CRM, PIm, MAM,...
+* CRM, PIM, MAM,...
 
 https://www.fsom.com
 
