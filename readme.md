@@ -13,6 +13,9 @@ Buttonfunnel.com is an html template that convert bettter as a simple form.
   - Change the content
   - sent to your PHP Mailer Script
   - done
+  
+  <img src="https://www.buttonfunnel.com/images/screenshot.jpg" border="1px">
+  
 
 ### Get more
 
