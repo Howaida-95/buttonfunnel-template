@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Buttonfunnel.com is an html template that convert bettter as a simple form.
+https://www.buttonfunnel.com is an html template that convert bettter as a simple form.
 
   - 3 Questions as ice braker
   - Then get the contact information
